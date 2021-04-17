@@ -77,6 +77,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | C Programming Tutorial for Beginners | Tutorial para aprender C para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org) |
 | Learn C | Documentación de iniciación de C | Documentación | Inglés | Sí | [Link](https://www.learn-c.org/) |
 | SoloLearn C | Curso para aprender C con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1089) |
+| Lenguaje C | Libro para aprender a programar en C (intermedio-avanzado)| PDF-book | Ingles | Sí | [Link](https://goalkicker.com/CBook/CNotesForProfessionals.pdf)|
 
 **[⬆ Volver al índice](#índice)**
 
@@ -95,6 +96,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
+| Lenguaje de programación C++ | Libro para aprender a programar en C++ (intermedio-avanzado)| pdf-Libro | Ingles | Sí | [Link](https://goalkicker.com/CPlusPlusBook/CPlusPlusNotesForProfessionals.pdf)|
 
 **[⬆ Volver al índice](#índice)**
 
@@ -315,6 +317,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Kotlin Course | Tutorial para aprender Kotlin | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org) |
 | Kotlin Docs | Documentación oficial de Kotlin | Documentación | Inglés | Sí | [Link](https://kotlinlang.org/docs/home.html) |
 | Tutorial de Kotlin para Android | Tutorial de iniciación de Kotlin | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=P9ZFhTw2hGA&ab_channel=Platzi) |
+| Lenguaje de programación Kotlin | Libro para aprender a programar en Kotlin (intermedio-avanzado)| pdf-Libro | Ingles | Sí | [Link](goalkicker.com/KotlinBook/KotlinNotesForProfessionals.pdf)|
 
 **[⬆ Volver al índice](#índice)**
 
